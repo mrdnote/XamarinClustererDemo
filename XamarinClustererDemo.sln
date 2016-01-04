@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinClustererDemo", "XamarinClustererDemo\XamarinClustererDemo.csproj", "{F3DFA175-E76A-49BA-8823-6C2B3290F29E}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharpMapKitClusterer", "..\ClustererDemo\SharpMapKitClusterer\SharpMapKitClusterer.shproj", "{17062D56-811E-4D32-8E8A-1934CEF6CE22}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharpMapKitClusterer", "SharpMapKitClusterer\SharpMapKitClusterer.shproj", "{17062D56-811E-4D32-8E8A-1934CEF6CE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{17062D56-811E-4D32-8E8A-1934CEF6CE22}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SharpMapKitClusterer</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)FBAnnotationCluster.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBBoundingBox.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBClusteringManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBConsts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBQuadTree.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBQuadTreeNode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FBUtils.cs" />
+  </ItemGroup>
+</Project>
