@@ -26,3 +26,7 @@ MapView.RegionChanged += (object sender, MKMapViewChangeEventArgs e) =>
 Check out the sample project for usage and how to display a cluster marker with a counter on top of it.
 
 A big thanks goes out to infinum!
+
+&copy;2016 Dnote Software - http://www.dnote.nl
+
+XamarinClustererDemo is available under the MIT license. See the LICENSE file for more info
